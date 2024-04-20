@@ -1,0 +1,2724 @@
+{
+  "tracks": [
+    {
+      "artist": "Maroon 5",
+      "album": "Overexposed Track By Track",
+      "track": "Payphone",
+      "uri": "spotify:track:1XGmzt0PVuFgQYYnV2It7A"
+    },
+    {
+      "artist": "Sonu Nigam",
+      "album": "Sanju",
+      "track": "Main Badhiya Tu Bhi Badhiya",
+      "uri": "spotify:track:29wRh7aUncjPkqWVkZStH2"
+    },
+    {
+      "artist": "DIVINE",
+      "album": "Mirchi",
+      "track": "Mirchi",
+      "uri": "spotify:track:5KkCsYIgMK5H7Ih31Dnd2Q"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Dilwale (Original Motion Picture Soundtrack)",
+      "track": "Tukur Tukur",
+      "uri": "spotify:track:5swv4r5dYNHhsL54jGqmn8"
+    },
+    {
+      "artist": "Avicii",
+      "album": "TIM",
+      "track": "Ain't A Thing (feat. Bonn)",
+      "uri": "spotify:track:3MhNgzZwFtUF6jSr6pRSkW"
+    },
+    {
+      "artist": "Jasleen Royal",
+      "album": "Heeriye (feat. Arijit Singh)",
+      "track": "Heeriye (feat. Arijit Singh)",
+      "uri": "spotify:track:5PUXKVVVQ74C3gl5vKy9Li"
+    },
+    {
+      "artist": "Avicii",
+      "album": "TIM",
+      "track": "Never Leave Me (feat. Joe Janiak)",
+      "uri": "spotify:track:7zGEU6BXl2c4TxpzIAr7BI"
+    },
+    {
+      "artist": "SHAED",
+      "album": "Trampoline (with ZAYN)",
+      "track": "Trampoline (with ZAYN)",
+      "uri": "spotify:track:1iQDltZqI7BXnHrFy4Qo1k"
+    },
+    {
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "track": "Heat Waves",
+      "uri": "spotify:track:02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Kills You Slowly",
+      "track": "Kills You Slowly - Sick Individuals Remix",
+      "uri": "spotify:track:2n57zaTroF1YHUtPAylcNi"
+    },
+    {
+      "artist": "Jason Derulo",
+      "album": "Tattoos",
+      "track": "Talk Dirty (feat. 2 Chainz)",
+      "uri": "spotify:track:5l3CML2OnzfNs5RfVgbcLt"
+    },
+    {
+      "artist": "Avicii",
+      "album": "The Days / Nights",
+      "track": "The Nights",
+      "uri": "spotify:track:0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "artist": "Armani White",
+      "album": "BILLIE EILISH.",
+      "track": "BILLIE EILISH.",
+      "uri": "spotify:track:27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "artist": "Sachin-Jigar",
+      "album": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+      "track": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+      "uri": "spotify:track:5QW9K4A1gMnIi94YUxtsfM"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "One Dance",
+      "uri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "artist": "Liam Payne",
+      "album": "LP1",
+      "track": "Live Forever (With Cheat Codes)",
+      "uri": "spotify:track:4D3IIkBWnpL097OkljGnRW"
+    },
+    {
+      "artist": "NVDES",
+      "album": "Brazooka",
+      "track": "Brazooka",
+      "uri": "spotify:track:3X0qI1VjyCv7eiE7bftaSL"
+    },
+    {
+      "artist": "Jonas Blue",
+      "album": "Rise",
+      "track": "Rise",
+      "uri": "spotify:track:3u1S1OmAUhx5DRlLrXqyp3"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "MONTERO",
+      "track": "MONTERO (Call Me By Your Name)",
+      "uri": "spotify:track:1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Connection",
+      "track": "Connection",
+      "uri": "spotify:track:3T4UodGkfZObJ43RtA5KFU"
+    },
+    {
+      "artist": "Manan Bhardwaj",
+      "album": "ANIMAL",
+      "track": "Arjan Vailly",
+      "uri": "spotify:track:4ApCig0GTR4IEp7Ijsyo3r"
+    },
+    {
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "track": "Royals",
+      "uri": "spotify:track:2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "artist": "Vayu",
+      "album": "Naagin",
+      "track": "Naagin",
+      "uri": "spotify:track:7gAyu0od48mkaCw1laPKVC"
+    },
+    {
+      "artist": "London Music Works",
+      "album": "Epic Themes",
+      "track": "Requiem for a Tower",
+      "uri": "spotify:track:1A95WalhbCQaIUmUoCpscP"
+    },
+    {
+      "artist": "Justh",
+      "album": "Chor",
+      "track": "Chor",
+      "uri": "spotify:track:0FCe2NhPWKiSTAipf0lOAT"
+    },
+    {
+      "artist": "Sam Smith",
+      "album": "Unholy (feat. Kim Petras)",
+      "track": "Unholy (feat. Kim Petras)",
+      "uri": "spotify:track:3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "Afterglow",
+      "track": "Afterglow",
+      "uri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Hate Me (with Juice WRLD)",
+      "track": "Hate Me (with Juice WRLD)",
+      "uri": "spotify:track:6kls8cSlUyHW2BUOkDJIZE"
+    },
+    {
+      "artist": "Vitamin String Quartet",
+      "album": "VSQ Performs the Hits of 2015, Vol. 2",
+      "track": "Ex's and Oh's",
+      "uri": "spotify:track:14py6hiJISlqWK3AyWXmGJ"
+    },
+    {
+      "artist": "Arko",
+      "album": "Baar Baar Dekho",
+      "track": "Dariya",
+      "uri": "spotify:track:0LRcXYhaWLqbs1wvSV0o9u"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "MONTERO",
+      "track": "THATS WHAT I WANT",
+      "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Andhadhun",
+      "track": "Naina Da Kya Kasoor",
+      "uri": "spotify:track:4JQxGJ8jsKW8pOUVoAgOZr"
+    },
+    {
+      "artist": "Clean Bandit",
+      "album": "What Is Love?",
+      "track": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "uri": "spotify:track:2hrUO4drrO63i7FYbCLBl2"
+    },
+    {
+      "artist": "Avicii",
+      "album": "TIM",
+      "track": "SOS (feat. Aloe Blacc)",
+      "uri": "spotify:track:2x0RZdkZcD8QRI53XT4GI5"
+    },
+    {
+      "artist": "Amar Arshi",
+      "album": "Baar Baar Dekho",
+      "track": "Kala Chashma",
+      "uri": "spotify:track:5CSEaABQkS1hoLza0IpK2r"
+    },
+    {
+      "artist": "Kabir Cafe",
+      "album": "Panchrang",
+      "track": "Matkar Maya Ko Ahankar",
+      "uri": "spotify:track:18dts4OqWOQTGFlMTGodkk"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Silence",
+      "track": "Silence",
+      "uri": "spotify:track:7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "artist": "K'NAAN",
+      "album": "Troubadour",
+      "track": "Wavin' Flag - Coca-Cola® Celebration Mix",
+      "uri": "spotify:track:4nOygULhEuDO5ZBRNPFaso"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Harleys In Hawaii",
+      "track": "Harleys In Hawaii",
+      "uri": "spotify:track:5nCthAh3jt4xKuLJAifAaR"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Manma Emotion Jaage (From \"Dilwale\")",
+      "track": "Manma Emotion Jaage (From \"Dilwale\")",
+      "uri": "spotify:track:0eFNjt04kVq35UGIhsH3Ao"
+    },
+    {
+      "artist": "mgk",
+      "album": "Hotel Diablo",
+      "track": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
+      "uri": "spotify:track:2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "artist": "Manish Tipu",
+      "album": "Gangs Of Wasseypur",
+      "track": "Bhoos",
+      "uri": "spotify:track:4KomN4Wq8Ple6hCPBWEfyM"
+    },
+    {
+      "artist": "DJ Snake",
+      "album": "Encore",
+      "track": "Let Me Love You",
+      "uri": "spotify:track:0lYBSQXN6rCTvUZvg9S0lU"
+    },
+    {
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "track": "Work",
+      "uri": "spotify:track:72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "artist": "John De Sohn",
+      "album": "Standing When It All Falls Down (feat. Roshi)",
+      "track": "Standing When It All Falls Down (feat. Roshi) - Official NiP Team Song",
+      "uri": "spotify:track:0wyTaLdr1Rc0tMPpMTPUWD"
+    },
+    {
+      "artist": "G-Eazy",
+      "album": "Him & I",
+      "track": "Him & I",
+      "uri": "spotify:track:3YU6vJbjYUG0tiJyXf9x5V"
+    },
+    {
+      "artist": "DNCE",
+      "album": "SWAAY",
+      "track": "Toothbrush",
+      "uri": "spotify:track:38510fWvtOkrFjg2EDkJtT"
+    },
+    {
+      "artist": "Prateek Kuhad",
+      "album": "The Way That Lovers Do",
+      "track": "Co2",
+      "uri": "spotify:track:3hB9lDLyAClYVZivMMl20N"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Happier",
+      "track": "Happier",
+      "uri": "spotify:track:2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "World War Joy",
+      "track": "Takeaway",
+      "uri": "spotify:track:3g0mEQx3NTanacLseoP0Gw"
+    },
+    {
+      "artist": "Indravathi Chauhan",
+      "album": "Pushpa - The Rise",
+      "track": "Oo Antava Oo Oo Antava",
+      "uri": "spotify:track:3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Now That's What I Call Music! 91",
+      "track": "Black Magic",
+      "uri": "spotify:track:7FtLZygO3k5bz49x02dQO7"
+    },
+    {
+      "artist": "Steve Aoki",
+      "album": "Neon Future III",
+      "track": "Waste It On Me",
+      "uri": "spotify:track:66XDf77gBcfQKi4I2vIbTj"
+    },
+    {
+      "artist": "Lehmber Hussainpuri",
+      "album": "Tanu Weds Manu",
+      "track": "Sadi Gali",
+      "uri": "spotify:track:1tEto4JrqNmBZFH5uAiYqb"
+    },
+    {
+      "artist": "Jon Bellion",
+      "album": "The Human Condition",
+      "track": "All Time Low",
+      "uri": "spotify:track:0SuLAslEMFZAXf0SwY7syi"
+    },
+    {
+      "artist": "Jeremy Zucker",
+      "album": "summer,",
+      "track": "comethru",
+      "uri": "spotify:track:18uwL0vNUanqZH0ro2QcOP"
+    },
+    {
+      "artist": "Sunidhi Chauhan",
+      "album": "Love Aaj Kal",
+      "track": "Thoda Thoda Pyar (From \"Love Aaj Kal\")",
+      "uri": "spotify:track:5O7NujeJHdRbpkj79jEygT"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Haan Main Galat",
+      "track": "Haan Main Galat (From \"Love Aaj Kal\")",
+      "uri": "spotify:track:068HSvCf5MbQfhV4qqaelg"
+    },
+    {
+      "artist": "Martin Garrix",
+      "album": "Scared to Be Lonely",
+      "track": "Scared to Be Lonely",
+      "uri": "spotify:track:3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "artist": "Cheat Codes",
+      "album": "No Promises (feat. Demi Lovato)",
+      "track": "No Promises (feat. Demi Lovato) - Ashworth Remix",
+      "uri": "spotify:track:7InzQLR47Yhmyd9FIQUnUP"
+    },
+    {
+      "artist": "Zack Knight",
+      "album": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+      "track": "Bom Diggy Diggy",
+      "uri": "spotify:track:6qCNaRRr5xJALfNJvh0NAw"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Rocky Aur Rani Kii Prem Kahaani",
+      "track": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "uri": "spotify:track:2q9lPN7CT92W1Ry77j2acn"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "track": "Ghost",
+      "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Ranvijay's Entry Medley (From \"ANIMAL\")",
+      "track": "Ranvijay's Entry Medley (From \"ANIMAL\")",
+      "uri": "spotify:track:6Ee9j3KfgdNTlXcK2XSpH6"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Teenage Dream: The Complete Confection",
+      "track": "Firework",
+      "uri": "spotify:track:4FLRw7sFTaKX66TKAHDstv"
+    },
+    {
+      "artist": "Bebe Rexha",
+      "album": "All Your Fault: Pt. 2",
+      "track": "Meant to Be (feat. Florida Georgia Line)",
+      "uri": "spotify:track:7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "artist": "Tate McRae",
+      "album": "greedy",
+      "track": "greedy",
+      "uri": "spotify:track:3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "artist": "David Guetta",
+      "album": "I'm Good (Blue)",
+      "track": "I'm Good (Blue)",
+      "uri": "spotify:track:4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Love Aaj Kal",
+      "track": "Shayad",
+      "uri": "spotify:track:1smFN2CLqGROu0J0UyvDfL"
+    },
+    {
+      "artist": "Rahat Fateh Ali Khan",
+      "album": "Mesmeric Vocalzz - Tulsi Kumar",
+      "track": "Tum Jo Aaye (From \"Once Upon A Time In Mumbaai\")",
+      "uri": "spotify:track:0zqYmOjuMqpgUNOcO8wmKH"
+    },
+    {
+      "artist": "Joel Adams",
+      "album": "Please Don't Go",
+      "track": "Please Don't Go",
+      "uri": "spotify:track:3cNjgVBKTJ1SvKhunrCdVy"
+    },
+    {
+      "artist": "Serena",
+      "album": "Safari",
+      "track": "Safari",
+      "uri": "spotify:track:6osKPJp6kQwZcgUqBteJFN"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Enemy (with JID)",
+      "track": "Enemy (with JID) - from the series Arcane League of Legends",
+      "uri": "spotify:track:1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Jab Tak Hai Jaan",
+      "track": "Challa",
+      "uri": "spotify:track:6wXPV6dNRAhFavrRaCdMXT"
+    },
+    {
+      "artist": "Sonu Nigam",
+      "album": "Soulful Sonu Nigam Specials",
+      "track": "Main Agar Kahoon",
+      "uri": "spotify:track:3WVHfTd7xz9VPYJQFpOp8j"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Leja Re",
+      "track": "Leja Re",
+      "uri": "spotify:track:68iBMrMRc1rg4eAxJbvxch"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "One Dance",
+      "uri": "spotify:track:5ZKG94fnjiuMH5yrC5S9lS"
+    },
+    {
+      "artist": "Nakash Aziz",
+      "album": "R... Rajkumar (Original Motion Picture Soundtrack)",
+      "track": "Saree Ke Fall Sa",
+      "uri": "spotify:track:1oqagwoBJTUmvfDG6A3QQM"
+    },
+    {
+      "artist": "Zara Larsson",
+      "album": "So Good",
+      "track": "Never Forget You",
+      "uri": "spotify:track:6hmhG1b4LEyNuashVvuIAo"
+    },
+    {
+      "artist": "Walk off the Earth",
+      "album": "My Stupid Heart (Sped Up)",
+      "track": "My Stupid Heart - Kids Version",
+      "uri": "spotify:track:4fzbuizXe2TOBZy6F5j1fD"
+    },
+    {
+      "artist": "MC SQUARE",
+      "album": "Mtv Hustle 2.0",
+      "track": "Ram Ram",
+      "uri": "spotify:track:64jX14ntYSUd1lbzVgBMr6"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Loveholic Arijit Singh",
+      "track": "Ik Vaari Aa (From \"Raabta\")",
+      "uri": "spotify:track:5sul5AkWmzi2fE70oS7mK9"
+    },
+    {
+      "artist": "The Vamps",
+      "album": "Wake Up",
+      "track": "I Found A Girl",
+      "uri": "spotify:track:7I8EGPtqTwlC0UlCAkpYtP"
+    },
+    {
+      "artist": "Darshan Raval",
+      "album": "Dard",
+      "track": "Mahiye Jinna Sohna",
+      "uri": "spotify:track:0Jiaz0O4AqnJICa9PxHhaR"
+    },
+    {
+      "artist": "August Alsina",
+      "album": "No Love",
+      "track": "No Love",
+      "uri": "spotify:track:4j16fjK6w4mB2igpzGXlyK"
+    },
+    {
+      "artist": "Sunidhi Chauhan",
+      "album": "Halka Halka (From \"Fanney Khan\")",
+      "track": "Halka Halka (From \"Fanney Khan\")",
+      "uri": "spotify:track:44O26Gv1wQrlUj14PpTolM"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Beauty Behind The Madness",
+      "track": "The Hills",
+      "uri": "spotify:track:7fBv7CLKzipRk6EC6TWHOB"
+    },
+    {
+      "artist": "Ammy Virk",
+      "album": "Manmarziyaan (Original Motion Picture Soundtrack)",
+      "track": "Daryaa",
+      "uri": "spotify:track:3ExeNEpJJQXfmq1cwj0LVo"
+    },
+    {
+      "artist": "Alex & Sierra",
+      "album": "It's About Us",
+      "track": "Little Do You Know",
+      "uri": "spotify:track:1almCHdsfikRPfVB9VrEdT"
+    },
+    {
+      "artist": "Steve Aoki",
+      "album": "Just Hold On",
+      "track": "Just Hold On",
+      "uri": "spotify:track:3EmmCZoqpWOTY1g2GBwJoR"
+    },
+    {
+      "artist": "Sunidhi Chauhan",
+      "album": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "track": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "uri": "spotify:track:1GjRIaC1VRaPw8cl5CAjuF"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Señorita",
+      "track": "Señorita",
+      "uri": "spotify:track:0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "artist": "Harrdy Sandhu",
+      "album": "Bijlee Bijlee",
+      "track": "Bijlee Bijlee",
+      "uri": "spotify:track:1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "artist": "OAFF",
+      "album": "Doobey",
+      "track": "Doobey (From \"Gehraiyaan\")",
+      "uri": "spotify:track:7MBqVOzb8C3f0FXr2LBLiq"
+    },
+    {
+      "artist": "Atif Aslam",
+      "album": "Ajab Prem Ki Ghazab Kahani",
+      "track": "Tu Jaane Na",
+      "uri": "spotify:track:4iFPsNzNV7V9KJgcOX7TEO"
+    },
+    {
+      "artist": "Luis Fonsi",
+      "album": "Despacito Feat. Justin Bieber",
+      "track": "Despacito - Remix",
+      "uri": "spotify:track:6rPO02ozF3bM7NnOV4h6s2"
+    },
+    {
+      "artist": "Passenger",
+      "album": "All the Little Lights (Deluxe)",
+      "track": "Let Her Go",
+      "uri": "spotify:track:2pUpNOgJBIBCcjyQZQ00qU"
+    },
+    {
+      "artist": "Walk off the Earth",
+      "album": "My Stupid Heart (Kids Version)",
+      "track": "My Stupid Heart - Kids Version",
+      "uri": "spotify:track:1y5K73ZMtl7x7oEvcADZZk"
+    },
+    {
+      "artist": "CryJaxx",
+      "album": "Candy Shop",
+      "track": "Candy Shop",
+      "uri": "spotify:track:7u8rSIe0Rh7XrwPV9btvwG"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+      "track": "Radha",
+      "uri": "spotify:track:5yYgGkyYJmmSwRp3caFplJ"
+    },
+    {
+      "artist": "Miza",
+      "album": "Us",
+      "track": "Us",
+      "uri": "spotify:track:0GHir0aDMJBbygcsGh6z3t"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Barfi! (Original Motion Picture Soundtrack)",
+      "track": "Aashiyan",
+      "uri": "spotify:track:7ttlemwytO21npSmLKqTBg"
+    },
+    {
+      "artist": "Jasleen Royal",
+      "album": "Ranjha",
+      "track": "Ranjha (From \"Shershaah\")",
+      "uri": "spotify:track:72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "artist": "Guru Randhawa",
+      "album": "Naach Meri Rani",
+      "track": "Naach Meri Rani",
+      "uri": "spotify:track:1orM67pmkNc4alrZkWjYkV"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Wolves",
+      "track": "Wolves",
+      "uri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU"
+    },
+    {
+      "artist": "Hailee Steinfeld",
+      "album": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "track": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "uri": "spotify:track:5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "artist": "Avicii",
+      "album": "TIM",
+      "track": "Bad Reputation (feat. Joe Janiak)",
+      "uri": "spotify:track:0HZgYFimoJG9Ijy8InUWcV"
+    },
+    {
+      "artist": "Pritam",
+      "album": "New York",
+      "track": "Tune Jo Na Kaha",
+      "uri": "spotify:track:0pw3p4gf5homOkvOGOJulF"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "track": "Thunder",
+      "uri": "spotify:track:1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "artist": "Steve Jablonsky",
+      "album": "Transformers: The Score",
+      "track": "Arrival to Earth",
+      "uri": "spotify:track:4u4VElxO7JM4IR4jR4TL1s"
+    },
+    {
+      "artist": "Sam Fischer",
+      "album": "This City",
+      "track": "This City",
+      "uri": "spotify:track:3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "artist": "Alessia Cara",
+      "album": "Know-It-All",
+      "track": "Scars To Your Beautiful",
+      "uri": "spotify:track:42ydLwx4i5V49RXHOozJZq"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Voodoo (with J Balvin, Tainy & Lil Baby)",
+      "track": "Voodoo (with J Balvin, Tainy & Lil Baby)",
+      "uri": "spotify:track:0RoI7Why34Duj8Qmv0W2wv"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "Me Before You",
+      "track": "Photograph",
+      "uri": "spotify:track:6XLww4MprrLCvWpVXD9K7S"
+    },
+    {
+      "artist": "Nightcore High",
+      "album": "Apollo",
+      "track": "Apollo - Sped Up",
+      "uri": "spotify:track:1inNWPIdBuMIgKubp53Qm7"
+    },
+    {
+      "artist": "Bhoomi Trivedi",
+      "album": "Husn Parcham (From \"Zero\")",
+      "track": "Husn Parcham (From \"Zero\")",
+      "uri": "spotify:track:0k2modGW9JkPeVZSYQvWhz"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Najaa (From \"Sooryavanshi\")",
+      "track": "Najaa (From \"Sooryavanshi\")",
+      "uri": "spotify:track:09vHbIezp9NP31CZWysk3v"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "The Lion King: The Gift",
+      "track": "MOOD 4 EVA (feat. Oumou Sangaré)",
+      "uri": "spotify:track:7oqftogUN82Q7VNy2TmTJW"
+    },
+    {
+      "artist": "Vineeth Sreenivasan",
+      "album": "Velipadinte Pusthakam",
+      "track": "Entammede Jimikki Kammal",
+      "uri": "spotify:track:2n46SeXId7o9WvXTFgRO8B"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Dilliwaali Girlfriend",
+      "uri": "spotify:track:3W1XPf7mvuQcWQB7U7MbTM"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Lutt Putt Gaya (From \"Dunki\")",
+      "track": "Lutt Putt Gaya (From \"Dunki\")",
+      "uri": "spotify:track:72Z2D7jpKevicRkyL45mbw"
+    },
+    {
+      "artist": "Sachet Tandon",
+      "album": "Psycho Saiyaan (From \"Saaho\")",
+      "track": "Psycho Saiyaan (From \"Saaho\")",
+      "uri": "spotify:track:3ZjMdVOWxQ53FKrmkgCv95"
+    },
+    {
+      "artist": "Nicky Youre",
+      "album": "Sunroof (feat. 24kGoldn)",
+      "track": "Sunroof (feat. 24kGoldn)",
+      "uri": "spotify:track:0u0eGWwyJmOVoG6ld4uNm0"
+    },
+    {
+      "artist": "Jason Derulo",
+      "album": "Acapulco",
+      "track": "Acapulco",
+      "uri": "spotify:track:3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "artist": "Drake",
+      "album": "Fake Love",
+      "track": "Fake Love",
+      "uri": "spotify:track:6NMNgWgEAzde5M8U3lc6FN"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Numb",
+      "track": "Numb",
+      "uri": "spotify:track:10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "artist": "Rema",
+      "album": "Calm Down (with Selena Gomez)",
+      "track": "Calm Down (with Selena Gomez)",
+      "uri": "spotify:track:0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "All We Know",
+      "track": "All We Know",
+      "uri": "spotify:track:2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "artist": "Klaus Badelt",
+      "album": "Pirates Of The Caribbean Original Soundtrack",
+      "track": "He's a Pirate",
+      "uri": "spotify:track:4AD2dterIUjNt1LFNI9Bvi"
+    },
+    {
+      "artist": "Vishal Dadlani",
+      "album": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
+      "track": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
+      "uri": "spotify:track:4YIhJmihoXwjtbY4vsV9Nh"
+    },
+    {
+      "artist": "Tesher",
+      "album": "Jalebi Baby",
+      "track": "Jalebi Baby",
+      "uri": "spotify:track:6GKGoi0FHzldk1ZRQoV1fv"
+    },
+    {
+      "artist": "Master Saleem",
+      "album": "Love Aaj Kal",
+      "track": "Aahun Aahun (From \"Love Aaj Kal\")",
+      "uri": "spotify:track:1WrrcqB5cmqxJIJMcYk6fj"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Joytime II",
+      "track": "Stars",
+      "uri": "spotify:track:6GRMKQ3RrivYgLEO6h7ebu"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Human",
+      "track": "Wanted",
+      "uri": "spotify:track:3fT6xqEkC1jm4mHjOyXbKw"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+      "track": "Kar Gayi Chull",
+      "uri": "spotify:track:3BhjbaGeI7E0CiIjctfdD3"
+    },
+    {
+      "artist": "Lucky Ali",
+      "album": "Tamasha",
+      "track": "Safarnama",
+      "uri": "spotify:track:6w458kA8WOAIZr1ublxnK9"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Run",
+      "track": "Run",
+      "uri": "spotify:track:2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "artist": "Shivam Pathak",
+      "album": "Padmaavat",
+      "track": "Ek Dil Ek Jaan",
+      "uri": "spotify:track:1NfNC8BKQSbWyhwZgLvrfY"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "No.6 Collaborations Project",
+      "track": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "uri": "spotify:track:4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "artist": "Gotye",
+      "album": "Making Mirrors",
+      "track": "Somebody That I Used To Know",
+      "uri": "spotify:track:1qDrWA6lyx8cLECdZE7TV7"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Black Magic",
+      "track": "Black Magic",
+      "uri": "spotify:track:33NHr7lu7tCMjK05jUj1v0"
+    },
+    {
+      "artist": "24kGoldn",
+      "album": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "track": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
+      "uri": "spotify:track:6FuGJB290AQMAHTfjOYVaK"
+    },
+    {
+      "artist": "The Vamps",
+      "album": "Meet The Vamps",
+      "track": "Somebody To You",
+      "uri": "spotify:track:36M0NzkkJzr4ud9RYM5ynK"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Ghagra",
+      "uri": "spotify:track:5YY8EsBdUYAg1NJQIvgCEj"
+    },
+    {
+      "artist": "Shankar Mahadevan",
+      "album": "Karthik Calling Karthik",
+      "track": "Uff Teri Adaa",
+      "uri": "spotify:track:0og9wKFGgFFNQnrBe7eisG"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Desi Boyz",
+      "track": "Jhak Maar Ke",
+      "uri": "spotify:track:7pTYN6Gxy3MOibdXmkzc5V"
+    },
+    {
+      "artist": "David Guetta",
+      "album": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "track": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "uri": "spotify:track:2lYTJK94hb0fd1LQtb6Dhk"
+    },
+    {
+      "artist": "Jawsh 685",
+      "album": "Savage Love (Laxed - Siren Beat)",
+      "track": "Savage Love (Laxed - Siren Beat)",
+      "uri": "spotify:track:1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "artist": "Zaeden",
+      "album": "tere bina",
+      "track": "tere bina",
+      "uri": "spotify:track:6N5WkgPIDoTdbCXyyIIKAv"
+    },
+    {
+      "artist": "Demi Lovato",
+      "album": "Tell Me You Love Me",
+      "track": "Sorry Not Sorry",
+      "uri": "spotify:track:0yvPEnB032fojLfVluFjUv"
+    },
+    {
+      "artist": "G-Eazy",
+      "album": "Good Life (with G-Eazy & Kehlani)",
+      "track": "Good Life (with G-Eazy & Kehlani)",
+      "uri": "spotify:track:0Oa9mHOnH14GZ4toWwkf4c"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Ilahi",
+      "uri": "spotify:track:5cgKosPPj5Cs9a2JQufUc1"
+    },
+    {
+      "artist": "The Vamps",
+      "album": "Night & Day",
+      "track": "All Night",
+      "uri": "spotify:track:0dXNQ8dckG4eYfEtq9zcva"
+    },
+    {
+      "artist": "Atif Aslam",
+      "album": "Phata Poster Nikhla Hero",
+      "track": "Main Rang Sharbaton Ka",
+      "uri": "spotify:track:1yYM7dY6wSJFp5qmxPRLu1"
+    },
+    {
+      "artist": "Benny Dayal",
+      "album": "Cocktail",
+      "track": "Daaru Desi (From \"Cocktail\")",
+      "uri": "spotify:track:1R7ChEm1x3mGhDWXKnPSXn"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Illuminate",
+      "track": "Treat You Better",
+      "uri": "spotify:track:3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "artist": "Zedd",
+      "album": "Stay",
+      "track": "Stay",
+      "uri": "spotify:track:6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "artist": "Himesh Reshammiya",
+      "album": "Khiladi 786",
+      "track": "Hookah Bar",
+      "uri": "spotify:track:4AoQVhME8Ko6LNm4lV2wwQ"
+    },
+    {
+      "artist": "Dhvani Bhanushali",
+      "album": "Vaaste",
+      "track": "Vaaste",
+      "uri": "spotify:track:0mJTAdmY8olbGQjopDYff3"
+    },
+    {
+      "artist": "Gryffin",
+      "album": "Body Back (feat. Maia Wright)",
+      "track": "Body Back (feat. Maia Wright)",
+      "uri": "spotify:track:1z1XegUChLLQfcbtIK8ABn"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Dhan Dhana Dhan Goal",
+      "track": "Billo Rani",
+      "uri": "spotify:track:4NtaQSiRgkQ2Af8GSW0B0t"
+    },
+    {
+      "artist": "Chris Brown",
+      "album": "Indigo (Extended)",
+      "track": "Under The Influence",
+      "uri": "spotify:track:5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Namaste England",
+      "track": "Proper Patola",
+      "uri": "spotify:track:39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "artist": "Alan Walker",
+      "album": "Alone, Pt. II",
+      "track": "Alone, Pt. II",
+      "uri": "spotify:track:0bMbDctzMmTyK2j74j3nF3"
+    },
+    {
+      "artist": "Jonas Blue",
+      "album": "Blue",
+      "track": "Perfect Strangers",
+      "uri": "spotify:track:3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "artist": "Mohit Chauhan",
+      "album": "Anjaana Anjaani",
+      "track": "Tujhe Bhula Diya",
+      "uri": "spotify:track:4r8JqkhpTb5tzSKKHnVJIJ"
+    },
+    {
+      "artist": "Anne-Marie",
+      "album": "Speak Your Mind",
+      "track": "2002",
+      "uri": "spotify:track:2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "artist": "Alexa Avril",
+      "album": "Head Above Water",
+      "track": "Head Above Water",
+      "uri": "spotify:track:2zvT0aMGkco7mO1qlBux3Y"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "OK Not To Be OK",
+      "track": "OK Not To Be OK",
+      "uri": "spotify:track:0zzVTGyRrWpQu8Fr28NRAv"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Kusu Kusu (From \"Satyameva Jayate 2\")",
+      "track": "Kusu Kusu (From \"Satyameva Jayate 2\")",
+      "uri": "spotify:track:6G699QfN1BWYWXfiblH51F"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "JORDI",
+      "track": "Memories",
+      "uri": "spotify:track:4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Chhichhore",
+      "track": "Fikar Not",
+      "uri": "spotify:track:330vcLQSoOetyGLe426JSU"
+    },
+    {
+      "artist": "Troye Sivan",
+      "album": "Blue Neighbourhood",
+      "track": "YOUTH",
+      "uri": "spotify:track:0nhBKubnVz9yFNNprBniWz"
+    },
+    {
+      "artist": "Olivia Holt",
+      "album": "Olivia",
+      "track": "History",
+      "uri": "spotify:track:3QmOiZF7IzJJkHnahh5Ea0"
+    },
+    {
+      "artist": "Rudimental",
+      "album": "Toast to Our Differences",
+      "track": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+      "uri": "spotify:track:7mkT9kS25nUIoNkm02Ww0n"
+    },
+    {
+      "artist": "Vigiland",
+      "album": "V",
+      "track": "Take This Ride",
+      "uri": "spotify:track:1bjd4UgjnK5hedJJKmi3YP"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Rescue Me",
+      "track": "Rescue Me",
+      "uri": "spotify:track:0mjAU3yKR1QnXnHtjGJqTM"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "World War Joy...Push My Luck",
+      "track": "Who Do You Love",
+      "uri": "spotify:track:6OrxMR6OEl5GTGP8krrbsL"
+    },
+    {
+      "artist": "Alessia Cara",
+      "album": "How Far I'll Go",
+      "track": "How Far I'll Go - From \"Moana\"",
+      "uri": "spotify:track:5EbX5xL3O2xT8FxCpYzgUO"
+    },
+    {
+      "artist": "Maggie Lindemann",
+      "album": "Pretty Girl",
+      "track": "Pretty Girl - Cheat Codes X CADE Remix",
+      "uri": "spotify:track:1NDxZ7cFAo481dtYWdrUnR"
+    },
+    {
+      "artist": "Kygo",
+      "album": "It Ain't Me (with Selena Gomez)",
+      "track": "It Ain't Me (with Selena Gomez)",
+      "uri": "spotify:track:3eR23VReFzcdmS7TYCrhCe"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Mimi",
+      "track": "Param Sundari",
+      "uri": "spotify:track:3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "artist": "Vishal Mishra",
+      "album": "ANIMAL",
+      "track": "Pehle Bhi Main",
+      "uri": "spotify:track:7yDHHVKLbvDmVw1XXhDDIO"
+    },
+    {
+      "artist": "Alan Walker",
+      "album": "All Falls Down (feat. Juliander)",
+      "track": "All Falls Down (feat. Juliander)",
+      "uri": "spotify:track:5yFSF6qQA1rcLsQRnBsZgb"
+    },
+    {
+      "artist": "Tatiana Manaois",
+      "album": "Helplessly",
+      "track": "Helplessly",
+      "uri": "spotify:track:1pvGWSvIXr8PTk8nC4SnXK"
+    },
+    {
+      "artist": "MOD SUN",
+      "album": "Look Up",
+      "track": "Shoot 'Em Down (feat. Blackbear)",
+      "uri": "spotify:track:41ub643RIi3xgsT82ttwIt"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "MONTERO",
+      "track": "INDUSTRY BABY (feat. Jack Harlow)",
+      "uri": "spotify:track:5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "artist": "Shae Gill",
+      "album": "Pasoori",
+      "track": "Pasoori",
+      "uri": "spotify:track:7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Kabira",
+      "uri": "spotify:track:4bD9z9qa4qg9BhryvYWB7c"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "Spider-Man: Into the Spider-Verse",
+      "track": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "artist": "Vilen",
+      "album": "Chidiya",
+      "track": "Chidiya",
+      "uri": "spotify:track:0aoN9BQostK81IFddJn8Ej"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Stree",
+      "track": "Aao Kabhi Haveli Pe",
+      "uri": "spotify:track:0sUAJpnEbHak1FDXATrt2p"
+    },
+    {
+      "artist": "Rashid Ali",
+      "album": "Jaane Tu... Ya Jaane Na",
+      "track": "Kabhi Kabhi Aditi",
+      "uri": "spotify:track:3APdIdF8H0jsxSuGOqXedS"
+    },
+    {
+      "artist": "OAFF",
+      "album": "Gehraiyaan",
+      "track": "Doobey",
+      "uri": "spotify:track:7k6QR9YHyW258yVN6FHO1T"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Love Aaj Kal",
+      "track": "Mehrama",
+      "uri": "spotify:track:6cUOiOY5qh2FpIQWIYAd2h"
+    },
+    {
+      "artist": "AUR",
+      "album": "Tu hai kahan",
+      "track": "Tu hai kahan",
+      "uri": "spotify:track:3zSSCPpLZ5Oc8nelhhGjKz"
+    },
+    {
+      "artist": "Major Lazer",
+      "album": "Cold Water",
+      "track": "Cold Water",
+      "uri": "spotify:track:7zsXy7vlHdItvUSH8EwQss"
+    },
+    {
+      "artist": "Giveon",
+      "album": "TAKE TIME",
+      "track": "Heartbreak Anniversary",
+      "uri": "spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "artist": "Masked Wolf",
+      "album": "Astronomical",
+      "track": "Astronaut In The Ocean",
+      "uri": "spotify:track:6E90gq0KO6FYZVOXx8kCcC"
+    },
+    {
+      "artist": "Lauv",
+      "album": "~how i'm feeling~",
+      "track": "Sad Forever",
+      "uri": "spotify:track:7q2R1SoAcguNj357zGOhhe"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Jab Tak Hai Jaan",
+      "track": "Jiya Re",
+      "uri": "spotify:track:21Af1fetSINZpmAS3si8DW"
+    },
+    {
+      "artist": "Zedd",
+      "album": "Happy Now",
+      "track": "Happy Now",
+      "uri": "spotify:track:4keoy2fqgwGnbWlm3ZVZFa"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Sick Boy",
+      "track": "Hope",
+      "uri": "spotify:track:4BiiOzZCrXEzHRLYcYFiD5"
+    },
+    {
+      "artist": "HRVY",
+      "album": "Million Ways",
+      "track": "Million Ways",
+      "uri": "spotify:track:3wuR0YSNdT9rgWfFi1lctv"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Closer",
+      "track": "Closer",
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
+      "track": "Tere Pyaar Mein",
+      "uri": "spotify:track:2ZD4aIEepqZsdxPxLSuUhm"
+    },
+    {
+      "artist": "mgk",
+      "album": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",
+      "track": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
+      "uri": "spotify:track:0OI7AFifLSoGzpb8bdBLLV"
+    },
+    {
+      "artist": "DIVINE",
+      "album": "Punya Paap",
+      "track": "Mirchi",
+      "uri": "spotify:track:7zKzD5wM18bQSiJTAxTpwH"
+    },
+    {
+      "artist": "Dev Negi",
+      "album": "Kedarnath",
+      "track": "Sweetheart",
+      "uri": "spotify:track:6qrb4ganbSTzcDDOo1pzMT"
+    },
+    {
+      "artist": "Zedd",
+      "album": "The Middle",
+      "track": "The Middle",
+      "uri": "spotify:track:09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "artist": "Katy Perry",
+      "album": "Teenage Dream",
+      "track": "Firework",
+      "uri": "spotify:track:1mXuMM6zjPgjL4asbBsgnt"
+    },
+    {
+      "artist": "Sachin-Jigar",
+      "album": "Farzi",
+      "track": "Paisa Hai Toh",
+      "uri": "spotify:track:5kwldaZvtbiTmRYsmlyxAN"
+    },
+    {
+      "artist": "DNCE",
+      "album": "DNCE",
+      "track": "Toothbrush",
+      "uri": "spotify:track:4IYN0OknGIUvjB9qWY6Wfy"
+    },
+    {
+      "artist": "Halsey",
+      "album": "Without Me",
+      "track": "Without Me",
+      "uri": "spotify:track:5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "artist": "Vishal-Shekhar",
+      "album": "Tiger Zinda Hai",
+      "track": "Swag Se Swagat",
+      "uri": "spotify:track:2AjGLmuZK1fu21n1IpB9RU"
+    },
+    {
+      "artist": "Daya",
+      "album": "Sit Still, Look Pretty",
+      "track": "Hide Away",
+      "uri": "spotify:track:4Z3qm2aWGTJuJKnv3EWwyD"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "lovely (with Khalid)",
+      "track": "lovely (with Khalid)",
+      "uri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "artist": "Jonathan & Friends",
+      "album": "MagSafe",
+      "track": "MagSafe",
+      "uri": "spotify:track:1uq2UMoJalmaPbwpuWOcvx"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "A Sky Full of Stars",
+      "uri": "spotify:track:0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Don't Let Me Down",
+      "track": "Don't Let Me Down",
+      "uri": "spotify:track:1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "artist": "Sachet Tandon",
+      "album": "Malang Sajna",
+      "track": "Malang Sajna",
+      "uri": "spotify:track:73K33p4Vyz9koXGqmL5eFs"
+    },
+    {
+      "artist": "Anuv Jain",
+      "album": "Husn",
+      "track": "Husn",
+      "uri": "spotify:track:0TL0LFcwIBF5eX7arDIKxY"
+    },
+    {
+      "artist": "mgk",
+      "album": "bloom",
+      "track": "At My Best (feat. Hailee Steinfeld)",
+      "uri": "spotify:track:77lGafvlU68CeHgB2pkHC9"
+    },
+    {
+      "artist": "Sachin-Jigar",
+      "album": "Shor in the City (Original Motion Picture Soundtrack)",
+      "track": "Saibo",
+      "uri": "spotify:track:6udC4b4jOSnHb9ItnXgKLR"
+    },
+    {
+      "artist": "Mohit Chauhan",
+      "album": "Tamasha",
+      "track": "Matargashti",
+      "uri": "spotify:track:5GeBgck1MU2tlIkMpsn8uT"
+    },
+    {
+      "artist": "Vishal Dadlani",
+      "album": "Bang Bang",
+      "track": "Tu Meri",
+      "uri": "spotify:track:0800NFKDicegzMbus9LiuH"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Raanjhanaa (Original Motion Picture Soundtrack)",
+      "track": "Raanjhanaa",
+      "uri": "spotify:track:5OMUXgfXsSukZ0zxelpC3b"
+    },
+    {
+      "artist": "Nathan Evans",
+      "album": "Wellerman",
+      "track": "Wellerman - Sea Shanty",
+      "uri": "spotify:track:54OBgO0Xwu20Jak9TMXbR7"
+    },
+    {
+      "artist": "Akhil Sachdeva",
+      "album": "Best Of Akhil Sachdeva",
+      "track": "Tera Ban Jaunga (From \"Kabir Singh\")",
+      "uri": "spotify:track:4OcvkkpF3xmyCGGY5IBlgi"
+    },
+    {
+      "artist": "Avicii",
+      "album": "True",
+      "track": "Hey Brother",
+      "uri": "spotify:track:3XOMgW4jVBP3c4LFqe7pH3"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "track": "Blinding Lights",
+      "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "artist": "Romy",
+      "album": "Kaali Teri Gutt (From \"Phone Bhoot\")",
+      "track": "Kaali Teri Gutt (From \"Phone Bhoot\")",
+      "uri": "spotify:track:7hLu78HvexNBKI8TVOsqey"
+    },
+    {
+      "artist": "Diljit Dosanjh",
+      "album": "MoonChild Era",
+      "track": "Lover",
+      "uri": "spotify:track:0XwRlvv3KlOu4HWlOH34XG"
+    },
+    {
+      "artist": "Sukhwinder Singh",
+      "album": "Sanju",
+      "track": "Kar Har Maidaan Fateh",
+      "uri": "spotify:track:7gZwhDmzciskHbZemjf931"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Desi Boyz",
+      "track": "Make Some Noise For The Desi Boyz",
+      "uri": "spotify:track:71s7tZo8OGlN3VXyURWLUr"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Joytime II",
+      "track": "Flashbacks",
+      "uri": "spotify:track:0gsDBm94QELEJAcGS59f1b"
+    },
+    {
+      "artist": "Martin Garrix",
+      "album": "In the Name of Love",
+      "track": "In the Name of Love",
+      "uri": "spotify:track:23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "artist": "Vishal Mishra",
+      "album": "Naacho Naacho (From \"Rrr\")",
+      "track": "Naacho Naacho (From \"Rrr\")",
+      "uri": "spotify:track:208sMwgVcaFt2mT79Df1KG"
+    },
+    {
+      "artist": "Guru Randhawa",
+      "album": "Tera Saath Ho",
+      "track": "Tera Saath Ho",
+      "uri": "spotify:track:73QgWr4jM1xAUlKuYU2GGM"
+    },
+    {
+      "artist": "One Direction",
+      "album": "Take Me Home: Yearbook Edition",
+      "track": "They Don't Know About Us",
+      "uri": "spotify:track:72C7aUQECOhNtnD0AC36ua"
+    },
+    {
+      "artist": "Vishal Bhardwaj",
+      "album": "7 Khoon Maaf (Original Motion Picture Soundtrack)",
+      "track": "Darling",
+      "uri": "spotify:track:6z3p3Gm5FOH1n22ummzEh7"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Ram-Leela (Original Motion Picture Soundtrack)",
+      "track": "Laal Ishq",
+      "uri": "spotify:track:11DEcuDVbSK1vrP0Rosp50"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Balam Pichkari",
+      "uri": "spotify:track:18e3XXYCv4Tx8uUl1mP3CN"
+    },
+    {
+      "artist": "Rajat Nagpal",
+      "album": "Hum Toh Deewane",
+      "track": "Hum Toh Deewane",
+      "uri": "spotify:track:2A4lcqTJZgUs1XrW6TSvt0"
+    },
+    {
+      "artist": "Preet Aulakh",
+      "album": "Lehanga 2",
+      "track": "Lehanga 2",
+      "uri": "spotify:track:24ORPYeznn1aImSuSFZ3eV"
+    },
+    {
+      "artist": "Shankar-Ehsaan-Loy",
+      "album": "Love Mashup 2015 (By DJ Chetas)",
+      "track": "Love Mashup 2015 (By DJ Chetas)",
+      "uri": "spotify:track:7p5uzwVPw0XJmtZSmrsQ8P"
+    },
+    {
+      "artist": "Sachin-Jigar",
+      "album": "Saanjha (From \"Zara Hatke Zara Bachke\")",
+      "track": "Saanjha (From \"Zara Hatke Zara Bachke\")",
+      "uri": "spotify:track:5INSQI3su3J0b2H6VKoiNB"
+    },
+    {
+      "artist": "Sia",
+      "album": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+      "track": "Genius (feat. Sia, Diplo, and Labrinth)",
+      "uri": "spotify:track:4xigPf2sigSPmuFH3qCelB"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Galway Girl",
+      "uri": "spotify:track:0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "artist": "Tungevaag",
+      "album": "All For Love",
+      "track": "All For Love",
+      "uri": "spotify:track:5VGBgPVFO3e0lWz4WHYntQ"
+    },
+    {
+      "artist": "DG IMMORTALS",
+      "album": "NCR Ke (Original Song from \"NCR Days\")",
+      "track": "NCR Ke (Original Song from \"NCR Days\")",
+      "uri": "spotify:track:0PHCoJBQyXpTci3lfy7i1s"
+    },
+    {
+      "artist": "Nivicious",
+      "album": "Name Tag",
+      "track": "Name Tag",
+      "uri": "spotify:track:54fFQDKCPb0NO6WRnAlLfV"
+    },
+    {
+      "artist": "Pawni Pandey",
+      "album": "Raees",
+      "track": "Laila Main Laila",
+      "uri": "spotify:track:6HQbaD0RomfUPO4KK866oI"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "track": "drivers license",
+      "uri": "spotify:track:5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Ghodey Pe Sawaar",
+      "track": "Ghodey Pe Sawaar (From \"Qala\")",
+      "uri": "spotify:track:1a8w8nlIyIhE2W1HIayKnl"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Love Dose Arijit Singh",
+      "track": "Raabta (From \"Agent Vinod)",
+      "uri": "spotify:track:0hGM8pb57FctYjZVk7edc8"
+    },
+    {
+      "artist": "Maninder Buttar",
+      "album": "Sakhiyaan",
+      "track": "Sakhiyaan",
+      "uri": "spotify:track:3sqRODOZ1Z6hR4F2tnFAlg"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Demons",
+      "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Sick Boy",
+      "track": "This Feeling",
+      "uri": "spotify:track:4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "album": "Happiness Begins",
+      "track": "Sucker",
+      "uri": "spotify:track:22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "artist": "Meet Bros Anjjan",
+      "album": "Roy",
+      "track": "Chittiyaan Kalaiyaan",
+      "uri": "spotify:track:6XjJXPP3UiGtAQpYkD01c0"
+    },
+    {
+      "artist": "Vishal-Shekhar",
+      "album": "Ishq Jaisa Kuch (From \"Fighter\")",
+      "track": "Ishq Jaisa Kuch (From \"Fighter\")",
+      "uri": "spotify:track:23YpzkTDtU78GK6vpgRbkM"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Dance Meri Rani",
+      "track": "Dance Meri Rani",
+      "uri": "spotify:track:2Og3TvRiujRDfgnkmgaOhW"
+    },
+    {
+      "artist": "Walk off the Earth",
+      "album": "My Stupid Heart (with Lauv)",
+      "track": "My Stupid Heart (with Lauv)",
+      "uri": "spotify:track:1SVOLTmC627fn0XY9ltvx2"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Sick Boy",
+      "track": "Sick Boy",
+      "uri": "spotify:track:58kZ9spgxmlEznXGu6FPdQ"
+    },
+    {
+      "artist": "Kygo",
+      "album": "Stargazing - EP",
+      "track": "Stargazing",
+      "uri": "spotify:track:0Zbbxnx4SGGHoIow4PpISP"
+    },
+    {
+      "artist": "Rochak Kohli",
+      "album": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
+      "track": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
+      "uri": "spotify:track:57jOEZtoLQK4zF2x55bdkp"
+    },
+    {
+      "artist": "5 Seconds of Summer",
+      "album": "Lie To Me (feat. Julia Michaels)",
+      "track": "Lie To Me (feat. Julia Michaels)",
+      "uri": "spotify:track:6GzApXoBQiiAjak3tOQfV3"
+    },
+    {
+      "artist": "24kGoldn",
+      "album": "El Dorado",
+      "track": "Mood (feat. iann dior)",
+      "uri": "spotify:track:4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "artist": "Alec Benjamin",
+      "album": "Narrated For You",
+      "track": "Let Me Down Slowly",
+      "uri": "spotify:track:2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "artist": "Alan Silvestri",
+      "album": "Avengers: Infinity War",
+      "track": "The Avengers",
+      "uri": "spotify:track:2Zb6Cu5peVtG3UDifxEd1u"
+    },
+    {
+      "artist": "Avicii",
+      "album": "TIM",
+      "track": "Heaven",
+      "uri": "spotify:track:0vrmHPfoBadXVr2n0m1aqZ"
+    },
+    {
+      "artist": "Shaan Rahman",
+      "album": "Love Action Drama",
+      "track": "Kudukku",
+      "uri": "spotify:track:3QRSs8nzHXXvcQjdnx0CsJ"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Young Dumb & Broke",
+      "uri": "spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "artist": "Anirudh Ravichander",
+      "album": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
+      "track": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
+      "uri": "spotify:track:6yvxu91deFKt3X1QoV6qMv"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "beerbongs & bentleys",
+      "track": "rockstar (feat. 21 Savage)",
+      "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Lonely Together (feat. Rita Ora)",
+      "uri": "spotify:track:2OALaHcDdKkjYEpAr0Qzab"
+    },
+    {
+      "artist": "Anne-Marie",
+      "album": "Therapy",
+      "track": "Our Song",
+      "uri": "spotify:track:3fGW43fnu3OHEw6ohTC2Bw"
+    },
+    {
+      "artist": "Demi Lovato",
+      "album": "Tell Me You Love Me",
+      "track": "Sorry Not Sorry",
+      "uri": "spotify:track:3m660poUr1chesgkkjQM7P"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Human",
+      "track": "Run",
+      "uri": "spotify:track:6KL88T4Ma4ABXqzgUoEwkd"
+    },
+    {
+      "artist": "Neha Kakkar",
+      "album": "O Saki Saki (From \"Batla House\")",
+      "track": "O Saki Saki (From \"Batla House\")",
+      "uri": "spotify:track:4cFwhwH5ydnHgB0Tv3lZsm"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "7 EP",
+      "track": "Old Town Road",
+      "uri": "spotify:track:0F7FA14euOIX8KcbEturGH"
+    },
+    {
+      "artist": "David Guetta",
+      "album": "Listen",
+      "track": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+      "uri": "spotify:track:285HeuLxsngjFn4GGegGNm"
+    },
+    {
+      "artist": "Rudimental",
+      "album": "Toast to Our Differences",
+      "track": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+      "uri": "spotify:track:20ZP3Om9DvDazXrNUC7WM2"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Mere Yaaraa (From \"Sooryavanshi\")",
+      "track": "Mere Yaaraa (From \"Sooryavanshi\")",
+      "uri": "spotify:track:0tpwqQhdfJXRcUDSNRjb9O"
+    },
+    {
+      "artist": "Akhil",
+      "album": "Luka Chuppi",
+      "track": "Duniyaa",
+      "uri": "spotify:track:14cceH4q4ME5ywqe2DbFGs"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Jodhaa Akbar",
+      "track": "Jashn-E-Bahaaraa",
+      "uri": "spotify:track:1O5mTSQa0sCce9ghhDqIZl"
+    },
+    {
+      "artist": "Karan Kanchan",
+      "album": "Kho Gaye Hum Kahan",
+      "track": "Ishq Nachaawe - From \"Kho Gaye Hum Kahan\"",
+      "uri": "spotify:track:4lQzrLcNfjm1fqBpQmbHG6"
+    },
+    {
+      "artist": "Clean Bandit",
+      "album": "What Is Love?",
+      "track": "Mama (feat. Ellie Goulding)",
+      "uri": "spotify:track:3WDIhWoRWVcaHdRwMEHkkS"
+    },
+    {
+      "artist": "John Legend",
+      "album": "Love Me Now",
+      "track": "Love Me Now",
+      "uri": "spotify:track:6hdkw1wzhIRYPlYDUtCY5m"
+    },
+    {
+      "artist": "mgk",
+      "album": "bloom",
+      "track": "Bad Things (with Camila Cabello)",
+      "uri": "spotify:track:1PSBzsahR2AKwLJgx8ehBj"
+    },
+    {
+      "artist": "Akhil Sachdeva",
+      "album": "Love Mashup 2019",
+      "track": "Love Mashup 2019",
+      "uri": "spotify:track:2nCKF3gkwHCamm3f0jNaJd"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "track": "Believer",
+      "uri": "spotify:track:0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "artist": "James Arthur",
+      "album": "Back from the Edge",
+      "track": "Say You Won't Let Go",
+      "uri": "spotify:track:5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "artist": "Arko",
+      "album": "Kesari",
+      "track": "Teri Mitti",
+      "uri": "spotify:track:3PAC15iDIHk7IWD8ShSgWh"
+    },
+    {
+      "artist": "Thaman S",
+      "album": "Naalo Neeku",
+      "track": "Naalo Neeku - From \"Mr. Majnu\"",
+      "uri": "spotify:track:1WYYiIsWSSrB4lfBoAUNhc"
+    },
+    {
+      "artist": "Cooper Lee",
+      "album": "What Do I Know?",
+      "track": "What Do I Know?",
+      "uri": "spotify:track:3Ttxsnnbxot1yxfRKxwvPp"
+    },
+    {
+      "artist": "Petit Biscuit",
+      "album": "Sunset Lover",
+      "track": "Sunset Lover",
+      "uri": "spotify:track:0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "artist": "Bohemia",
+      "album": "Same Beef",
+      "track": "Same Beef",
+      "uri": "spotify:track:65c6VCikt7f5sAS1heoYQC"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Shawn Mendes",
+      "track": "Señorita",
+      "uri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Celebrate Kai Po Che (Original Motion Picture Soundtrack)",
+      "track": "Shubhaarambh",
+      "uri": "spotify:track:5ckJAMv3Ixm6orTgfkmtbf"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Voodoo (with J Balvin & Tainy)",
+      "track": "Voodoo (with J Balvin & Tainy)",
+      "uri": "spotify:track:4OUAXw3SXI7bUiNtKC7ErW"
+    },
+    {
+      "artist": "Yashita Sharma",
+      "album": "Dil Dhadakne Do",
+      "track": "Gallan Goodiyaan",
+      "uri": "spotify:track:7hNYvX0qAKrxtVr1jGDmvR"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "track": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "uri": "spotify:track:6EivvaEepVTjmDde43eGiB"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Kedarnath",
+      "track": "Qaafirana",
+      "uri": "spotify:track:0xkGTPTijMU84dtHr3KQQi"
+    },
+    {
+      "artist": "Dimitri Vegas & Like Mike",
+      "album": "When I Grow Up (feat. Wiz Khalifa)",
+      "track": "When I Grow Up (feat. Wiz Khalifa)",
+      "uri": "spotify:track:3LK452TFyApuFN9jjg3THO"
+    },
+    {
+      "artist": "DJ Snake",
+      "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "track": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "uri": "spotify:track:4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "artist": "Patrick Doyle",
+      "album": "Cinderella",
+      "track": "La Valse de L'Amour",
+      "uri": "spotify:track:265lTG7LmdndgsDAppXAFx"
+    },
+    {
+      "artist": "Vishal Mishra",
+      "album": "Kabir Singh",
+      "track": "Pehla Pyaar",
+      "uri": "spotify:track:0ojpEubhy4JNeVftmVuiN7"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "=",
+      "track": "Bad Habits",
+      "uri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "artist": "Michael Hunter",
+      "album": "Grand Theft Auto IV — the Theme Song Collection",
+      "track": "Soviet Connection — the Theme from Grand Theft Auto IV",
+      "uri": "spotify:track:3LoTSUEm7h7uryGBWxtaFe"
+    },
+    {
+      "artist": "One Direction",
+      "album": "Up All Night",
+      "track": "What Makes You Beautiful",
+      "uri": "spotify:track:4cluDES4hQEUhmXj6TXkSo"
+    },
+    {
+      "artist": "Zara Larsson",
+      "album": "So Good",
+      "track": "Lush Life",
+      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Night Visions",
+      "track": "Radioactive",
+      "uri": "spotify:track:62yJjFtgkhUrXktIoSjgP2"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Makhna (From \"Drive\")",
+      "track": "Makhna",
+      "uri": "spotify:track:0ZHILXmUaVSLEOCWxPQ1ga"
+    },
+    {
+      "artist": "Labh Janjua",
+      "album": "Best Of Neha Kakkar",
+      "track": "London Thumakda (From \"Queen\")",
+      "uri": "spotify:track:1VY2incfH4TLT9PCbot6lj"
+    },
+    {
+      "artist": "Charly Black",
+      "album": "You're Perfect",
+      "track": "You're Perfect",
+      "uri": "spotify:track:4iSWQ5Eadn5tZvvG9XNzYN"
+    },
+    {
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "track": "Levitating (feat. DaBaby)",
+      "uri": "spotify:track:5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "artist": "Tanishk Bagchi",
+      "album": "Har Funn Maula (From \"Koi Jaane Na\")",
+      "track": "Har Funn Maula (From \"Koi Jaane Na\")",
+      "uri": "spotify:track:3ayMReTwLoo6jAg7adDqyz"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Celebrate Kai Po Che (Original Motion Picture Soundtrack)",
+      "track": "Manja",
+      "uri": "spotify:track:6X4uyM93rEjUIlGCQ7jZRh"
+    },
+    {
+      "artist": "Don Omar",
+      "album": "Meet The Orphans",
+      "track": "Danza Kuduro",
+      "uri": "spotify:track:6DXLO8LndZMVOHM0wNbpzg"
+    },
+    {
+      "artist": "Two Steps from Hell",
+      "album": "Battlecry",
+      "track": "Victory",
+      "uri": "spotify:track:2F9xBxKbx2M0pbgtSu8fLf"
+    },
+    {
+      "artist": "Rochak Kohli",
+      "album": "Yahin Hoon Main",
+      "track": "Yahin Hoon Main",
+      "uri": "spotify:track:30UWFQsrAfkzcsRWaiNLtU"
+    },
+    {
+      "artist": "Alan Walker",
+      "album": "Different World",
+      "track": "Darkside",
+      "uri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Mercy",
+      "track": "Mercy",
+      "uri": "spotify:track:6CuJUdvZuGAGxCbN3dq81s"
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "album": "Boots",
+      "track": "These Boots Are Made For Walkin' - Mono Single Version",
+      "uri": "spotify:track:2mABflaNWHaeF2nFjzR3AC"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Starboy",
+      "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "World War Joy...Push My Luck",
+      "track": "Call You Mine (feat. Bebe Rexha)",
+      "uri": "spotify:track:6IJTc8xo6XasOU8fpxMU57"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "OK Jaanu (Original Motion Picture Soundtrack)",
+      "track": "Ok Jaanu Title Track",
+      "uri": "spotify:track:7a77VY7mjvK6EiaBeOosmk"
+    },
+    {
+      "artist": "Arko",
+      "album": "Bareilly Ki Barfi",
+      "track": "Nazm Nazm",
+      "uri": "spotify:track:1We89SAonMk70QBbfXERxa"
+    },
+    {
+      "artist": "Dimitri Vegas & Like Mike",
+      "album": "Complicated (feat. Kiiara)",
+      "track": "Complicated (feat. Kiiara)",
+      "uri": "spotify:track:1Sl3njkhhz8nrSPZroDQ82"
+    },
+    {
+      "artist": "BANNERS",
+      "album": "Where The Shadow Ends",
+      "track": "Someone To You",
+      "uri": "spotify:track:2f0pn9DkEJwAzXApnFh5cr"
+    },
+    {
+      "artist": "Sia",
+      "album": "This Is Acting",
+      "track": "Cheap Thrills",
+      "uri": "spotify:track:27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "artist": "Mahalakshmi Iyer",
+      "album": "Patiala House",
+      "track": "Rola Pe Gaya",
+      "uri": "spotify:track:2CYjOJhjqxU3IzYWnDmz8A"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Brahmastra",
+      "track": "Dance Ka Bhoot",
+      "uri": "spotify:track:43Xb3G04Pgp63fNhQW4T6W"
+    },
+    {
+      "artist": "Liam Payne",
+      "album": "Strip That Down",
+      "track": "Strip That Down",
+      "uri": "spotify:track:4Ro98RCK90oHqqSZUnTFq5"
+    },
+    {
+      "artist": "Arijit Singh",
+      "album": "Satranga (From \"ANIMAL\")",
+      "track": "Satranga (From \"ANIMAL\")",
+      "uri": "spotify:track:3yHyiUDJdz02FZ6jfUbsmY"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Ghanchakkar (Original Motion Picture Soundtrack)",
+      "track": "Lazy Lad",
+      "uri": "spotify:track:17QlNzGYB4iceCCW8TrXO0"
+    },
+    {
+      "artist": "Camila Cabello",
+      "album": "Liar",
+      "track": "Liar",
+      "uri": "spotify:track:7LzouaWGFCy4tkXDOOnEyM"
+    },
+    {
+      "artist": "Iqlipse Nova",
+      "album": "Mera Safar",
+      "track": "Mera Safar",
+      "uri": "spotify:track:2AB7fsbG0eZJjDGile69CQ"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "album": "Pray for the Wicked",
+      "track": "High Hopes",
+      "uri": "spotify:track:1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "artist": "Rochak Kohli",
+      "album": "Sonu Ke Titu Ki Sweety",
+      "track": "Tera Yaar Hoon Main",
+      "uri": "spotify:track:4ZTx87kAgEwlPMzoojFZWg"
+    },
+    {
+      "artist": "Yo Yo Honey Singh",
+      "album": "Desi Kalakaar",
+      "track": "Desi Kalakaar",
+      "uri": "spotify:track:7m4CgL81VVIHaaiSxyH922"
+    },
+    {
+      "artist": "Javed Ali",
+      "album": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "track": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "uri": "spotify:track:7sVEoPc5ZUUQerRkgTypUZ"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "OK Jaanu (Original Motion Picture Soundtrack)",
+      "track": "Enna Sona",
+      "uri": "spotify:track:6bdpj89aYEBjhpsenXAsmO"
+    },
+    {
+      "artist": "Fergie",
+      "album": "The Dutchess Deluxe",
+      "track": "London Bridge",
+      "uri": "spotify:track:32cxjD3ufFrwGlxgOc0mUg"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Delirium",
+      "track": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "uri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Desi Boyz",
+      "track": "Subha Hone Na De",
+      "uri": "spotify:track:6WediUhXDfm8FR3wlM0r3G"
+    },
+    {
+      "artist": "Meet Bros.",
+      "album": "Befikra",
+      "track": "Befikra",
+      "uri": "spotify:track:06wTXKpDMrSp5OfB7MErpx"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "I Ain’t Worried",
+      "track": "I Ain't Worried",
+      "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "artist": "Dev Negi",
+      "album": "Badrinath Ki Dulhania",
+      "track": "Badri Ki Dulhania (Title Track)",
+      "uri": "spotify:track:2xbvLQBFW7E9232BwMBljb"
+    },
+    {
+      "artist": "Pitbull",
+      "album": "Global Warming: Meltdown (Deluxe Version)",
+      "track": "Timber",
+      "uri": "spotify:track:3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Lonely Together (feat. Rita Ora)",
+      "uri": "spotify:track:7DoN0sCGIT9IcLrtBDm4f0"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "Revival",
+      "track": "Same Old Love",
+      "uri": "spotify:track:6ZANrVuAMp2rpjhfbOuJly"
+    },
+    {
+      "artist": "Akhil",
+      "album": "Khaab",
+      "track": "Khaab",
+      "uri": "spotify:track:0a6zRnrjmaOcqsEIFkXIhw"
+    },
+    {
+      "artist": "Måneskin",
+      "album": "Chosen",
+      "track": "Beggin'",
+      "uri": "spotify:track:3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "artist": "Howard Shore",
+      "album": "The Hobbit: The Battle Of The Five Armies - Original Motion Picture Soundtrack",
+      "track": "Dragon-Sickness",
+      "uri": "spotify:track:5fDSSojNJ2EUQmMQCbUclT"
+    },
+    {
+      "artist": "Jasleen Royal",
+      "album": "Shershaah",
+      "track": "Ranjha",
+      "uri": "spotify:track:0v77QqHiZUvfJkCk2rGRqw"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Memories...Do Not Open",
+      "track": "Something Just Like This",
+      "uri": "spotify:track:6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "artist": "A.R. Rahman",
+      "album": "Chaka Chak (From \"Atrangi Re\")",
+      "track": "Chaka Chak (From \"Atrangi Re\")",
+      "uri": "spotify:track:5pbOpE6CfRgGnPPZJSDfME"
+    },
+    {
+      "artist": "Shaarib Toshi",
+      "album": "Saturday Saturday",
+      "track": "Saturday Saturday",
+      "uri": "spotify:track:7MvQQGqYE4r0ucTarmI2Gr"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
+      "track": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
+      "uri": "spotify:track:2vPrBucKCfKmafHhSfJ2pt"
+    },
+    {
+      "artist": "Justin Prabhakaran",
+      "album": "Meenakshi Sundareshwar",
+      "track": "Ratti Ratti Reza Reza",
+      "uri": "spotify:track:2Kv1i9sNMpvR97H5NKMdef"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Without You (feat. Sandro Cavazza)",
+      "uri": "spotify:track:6Pgkp4qUoTmJIPn7ReaGxL"
+    },
+    {
+      "artist": "Varun Jain",
+      "album": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
+      "track": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
+      "uri": "spotify:track:46hzNOUOAlivuCZZ0wE3zi"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Native",
+      "track": "Counting Stars",
+      "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "artist": "QARAN",
+      "album": "Haaye Oye (feat. Ash King)",
+      "track": "Haaye Oye (feat. Ash King)",
+      "uri": "spotify:track:0oukMLKedsqQ3ltnI2daRO"
+    },
+    {
+      "artist": "Romy",
+      "album": "Heer Badnaam (From \"Zero\")",
+      "track": "Heer Badnaam (From \"Zero\")",
+      "uri": "spotify:track:1mLjtKr1Mn1cnsTTozdeLK"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Mere Sawaal Ka (From \"Shehzada\")",
+      "track": "Mere Sawaal Ka (From \"Shehzada\")",
+      "uri": "spotify:track:6ZLgnkQNj1CJldLocXd5Ul"
+    },
+    {
+      "artist": "Kesha",
+      "album": "Warrior (Deluxe Version)",
+      "track": "Die Young",
+      "uri": "spotify:track:6mnjcTmK8TewHfyOp3fC9C"
+    },
+    {
+      "artist": "ZAYN",
+      "album": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "track": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "uri": "spotify:track:6yIdwnpDHufLWgQcveTPMk"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "The Archer",
+      "track": "The Archer",
+      "uri": "spotify:track:3Y7MHz19qCg1Pkxridtu1k"
+    },
+    {
+      "artist": "Sachin-Jigar",
+      "album": "Zara Hatke Zara Bachke",
+      "track": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+      "uri": "spotify:track:5Tkf5CbtVYHA1SiKo1NrJE"
+    },
+    {
+      "artist": "Aero Chord",
+      "album": "Shootin Stars",
+      "track": "Shootin Stars",
+      "uri": "spotify:track:2304Tj4uic640MFsZc0jwO"
+    },
+    {
+      "artist": "Jeremih",
+      "album": "All About You",
+      "track": "Down On Me",
+      "uri": "spotify:track:0x3TibRgnSqzkcwrqBd4iX"
+    },
+    {
+      "artist": "Walk off the Earth",
+      "album": "My Stupid Heart",
+      "track": "My Stupid Heart",
+      "uri": "spotify:track:3UZDl7g2r84o1b5marUjfK"
+    },
+    {
+      "artist": "Raja Kumari",
+      "album": "City Slums (feat. DIVINE)",
+      "track": "City Slums (feat. DIVINE)",
+      "uri": "spotify:track:6xzQ1uSk2Rzz6Xdf8xBnWn"
+    },
+    {
+      "artist": "Green Day",
+      "album": "Greatest Hits: God's Favorite Band",
+      "track": "Boulevard of Broken Dreams",
+      "uri": "spotify:track:5GorCbAP4aL0EJ16frG2hd"
+    },
+    {
+      "artist": "Dhvani Bhanushali",
+      "album": "Naina (Mtv Unplugged Season 7)",
+      "track": "Naina (Mtv Unplugged Season 7)",
+      "uri": "spotify:track:5If9mWAyoUNyqOK9xCGiTI"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Subhanallah",
+      "uri": "spotify:track:0GQngE2rOYvlKwEQjTAsP8"
+    },
+    {
+      "artist": "Kavita Krishnamurthy",
+      "album": "Hawa Hawai 2.0 (From \"Tumhari Sulu\")",
+      "track": "Hawa Hawai 2.0 (From \"Tumhari Sulu\")",
+      "uri": "spotify:track:68pyYudVJIEOvr93rCYWSJ"
+    },
+    {
+      "artist": "Alka Yagnik",
+      "album": "Tamasha",
+      "track": "Agar Tum Saath Ho",
+      "uri": "spotify:track:3hkC9EHFZNQPXrtl8WPHnX"
+    },
+    {
+      "artist": "Kulwinder Billa",
+      "album": "Chakkwein Suit",
+      "track": "Chakkwein Suit",
+      "uri": "spotify:track:2dtoowCHQk8lvRbc8oE8kJ"
+    },
+    {
+      "artist": "Amit Trivedi",
+      "album": "Kai Po Che (Original Motion Picture Soundtrack)",
+      "track": "Manja",
+      "uri": "spotify:track:6o1o5SVSqVPLKAnZxRQz4x"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Desi Boyz",
+      "track": "Allah Maaf Kare",
+      "uri": "spotify:track:68RveqIjrkOeBbEGL67GgA"
+    },
+    {
+      "artist": "Chase Goehring",
+      "album": "What Is Love",
+      "track": "What Is Love",
+      "uri": "spotify:track:7oXQebJF5IYh3hjwpo8ppX"
+    },
+    {
+      "artist": "Dimitri Vegas & Like Mike",
+      "album": "Instagram",
+      "track": "Instagram",
+      "uri": "spotify:track:0U6bQIAh6MCGo1xjbIIx2S"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "MONTERO (Call Me By Your Name)",
+      "track": "MONTERO (Call Me By Your Name)",
+      "uri": "spotify:track:67BtfxlNbhBmCDR2L2l8qd"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "JORDI",
+      "track": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "uri": "spotify:track:5zFglKYiknIxks8geR8rcL"
+    },
+    {
+      "artist": "Sunidhi Chauhan",
+      "album": "Aiyaary",
+      "track": "Lae Dooba",
+      "uri": "spotify:track:4cNbz1UdBCrnGOg0NNP1iF"
+    },
+    {
+      "artist": "Yash Golcha",
+      "album": "Hey Aasmaan",
+      "track": "Hey Aasmaan - From \"Theri\"",
+      "uri": "spotify:track:2dIbM8USnliRNLxxwLGNS4"
+    },
+    {
+      "artist": "Passenger",
+      "album": "All The Little Lights",
+      "track": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
+      "uri": "spotify:track:1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "artist": "Sam Smith",
+      "album": "Love Goes",
+      "track": "Dancing With A Stranger (with Normani)",
+      "uri": "spotify:track:3xgT3xIlFGqZjYW9QlhJWp"
+    },
+    {
+      "artist": "James Arthur",
+      "album": "Back from the Edge",
+      "track": "Can I Be Him",
+      "uri": "spotify:track:0VhgEqMTNZwYL1ARDLLNCX"
+    },
+    {
+      "artist": "Sam Fischer",
+      "album": "What Other People Say",
+      "track": "What Other People Say",
+      "uri": "spotify:track:2h9TDNEXRhcDIV3fsoEVq9"
+    },
+    {
+      "artist": "Gym Class Heroes",
+      "album": "The Papercut Chronicles II",
+      "track": "Stereo Hearts (feat. Adam Levine)",
+      "uri": "spotify:track:0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "artist": "TEN TIMES",
+      "album": "DNA",
+      "track": "DNA",
+      "uri": "spotify:track:0TAhz6k4ho8ajh7FOV1Udt"
+    },
+    {
+      "artist": "Badshah",
+      "album": "Genda Phool (feat. Payal Dev)",
+      "track": "Genda Phool (feat. Payal Dev)",
+      "uri": "spotify:track:0gzu5mm36VJH2Zqu8sQPTf"
+    },
+    {
+      "artist": "Taio Cruz",
+      "album": "TY.O",
+      "track": "Hangover",
+      "uri": "spotify:track:5pmL3RzOy3IvGFaSDi4hZL"
+    },
+    {
+      "artist": "Pritam",
+      "album": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
+      "track": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
+      "uri": "spotify:track:0czcoKJbJt08NqKrvSbbz7"
+    },
+    {
+      "artist": "MAX",
+      "album": "Love Me Less (feat. Quinn XCII)",
+      "track": "Love Me Less (feat. Quinn XCII) - Ookay Remix",
+      "uri": "spotify:track:4E7DVqv5jomWyJJB2MdONv"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Bones",
+      "track": "Bones",
+      "uri": "spotify:track:0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "artist": "Duncan Laurence",
+      "album": "Arcade",
+      "track": "Arcade",
+      "uri": "spotify:track:1Xi84slp6FryDSCbzq4UCD"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Shawn Mendes",
+      "track": "In My Blood",
+      "uri": "spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH"
+    },
+    {
+      "artist": "Calvin Harris",
+      "album": "One Kiss (with Dua Lipa)",
+      "track": "One Kiss (with Dua Lipa)",
+      "uri": "spotify:track:7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "artist": "Axwell /\\ Ingrosso",
+      "album": "More Than You Know",
+      "track": "More Than You Know",
+      "uri": "spotify:track:6h5PAsRni4IRlxWr6uDPTP"
+    },
+    {
+      "artist": "Bebe Rexha",
+      "album": "Expectations",
+      "track": "I'm a Mess",
+      "uri": "spotify:track:04ZTP5KsCypmtCmQg5tH9R"
+    },
+    {
+      "artist": "Millind Gaba",
+      "album": "Shanti",
+      "track": "Shanti",
+      "uri": "spotify:track:3xP7B3DnUkyU0DBvmRpM9Y"
+    },
+    {
+      "artist": "Zach Seabaugh",
+      "album": "Christmas Lights",
+      "track": "Christmas Lights",
+      "uri": "spotify:track:6PWwPv9eoltgzMRrBVRHWX"
+    },
+    {
+      "artist": "Sunanda Sharma",
+      "album": "Mummy Nu Pasand (From \"Jai Mummy Di\")",
+      "track": "Mummy Nu Pasand (From \"Jai Mummy Di\")",
+      "uri": "spotify:track:74qF0JeFMVilMEeFDiQZ48"
+    },
+    {
+      "artist": "Yo Yo Honey Singh",
+      "album": "International Villager",
+      "track": "Angreji Beat",
+      "uri": "spotify:track:4psVrPZy07uZTLwc3Mqz4V"
+    },
+    {
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "track": "Heat Waves",
+      "uri": "spotify:track:3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "Be Kind (with Halsey)",
+      "track": "Be Kind (with Halsey)",
+      "uri": "spotify:track:3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Glory Days",
+      "track": "No More Sad Songs (feat. Machine Gun Kelly)",
+      "uri": "spotify:track:0U372D2pbraSnrTFxSYlNj"
+    },
+    {
+      "artist": "Neeraj Shridhar",
+      "album": "Cocktail (Original Motion Picture Soundtrack)",
+      "track": "Tum Hi Ho Bandhu",
+      "uri": "spotify:track:7H3mfOvtPNA8YDF3EdKy0L"
+    },
+    {
+      "artist": "Amphibious Zoo Music",
+      "album": "At All Costs: Hip Hop, Vol. 3",
+      "track": "King",
+      "uri": "spotify:track:1zA3Vfr7iZPJ12yQCabIgK"
+    },
+    {
+      "artist": "Sean Paul",
+      "album": "Mad Love The Prequel",
+      "track": "No Lie",
+      "uri": "spotify:track:48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "artist": "Avicii",
+      "album": "AVĪCI",
+      "track": "Lonely Together (feat. Rita Ora)",
+      "uri": "spotify:track:75NhhYjHO43mvZgYtnXgti"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "album": "Divinely Uninspired To A Hellish Extent",
+      "track": "Someone You Loved",
+      "uri": "spotify:track:7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "track": "Badtameez Dil",
+      "uri": "spotify:track:4eu27jAU2bbnyHUC3G75U8"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "album": "Kiss",
+      "track": "Call Me Maybe",
+      "uri": "spotify:track:3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "I Forgot That You Existed",
+      "uri": "spotify:track:43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "artist": "fun.",
+      "album": "Some Nights",
+      "track": "We Are Young (feat. Janelle Monáe)",
+      "uri": "spotify:track:5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Jagga Jasoos",
+      "track": "Galti Se Mistake",
+      "uri": "spotify:track:7gFu2zjthH2zPbyl4uHLpr"
+    },
+    {
+      "artist": "Melanie Martinez",
+      "album": "Cry Baby",
+      "track": "Play Date",
+      "uri": "spotify:track:4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "artist": "The Vamps",
+      "album": "Night & Day",
+      "track": "Middle Of The Night",
+      "uri": "spotify:track:74vs7PD7iG2GnWUGnb8Yuq"
+    },
+    {
+      "artist": "Anirudh Ravichander",
+      "album": "Jawan",
+      "track": "Chaleya",
+      "uri": "spotify:track:3xMHXmedL5Rvfxmiar9Ryv"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Recovery",
+      "track": "Love The Way You Lie",
+      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "artist": "Ali Zafar",
+      "album": "Jhoom",
+      "track": "Jhoom - R&B Mix",
+      "uri": "spotify:track:6zAvNLJkdyRApUHnlJjKfO"
+    },
+    {
+      "artist": "Memphy",
+      "album": "Stay (feat. Philip Strand)",
+      "track": "Stay (feat. Philip Strand)",
+      "uri": "spotify:track:0mVlTS748qNB0tBUCtOMY7"
+    },
+    {
+      "artist": "James Arthur",
+      "album": "YOU",
+      "track": "Falling Like The Stars",
+      "uri": "spotify:track:395KzBy0bkb57dEvg6cfzJ"
+    },
+    {
+      "artist": "Shankar-Ehsaan-Loy",
+      "album": "My Name Is Khan (Original Motion Picture Soundtrack)",
+      "track": "Sajdaa",
+      "uri": "spotify:track:5upmbnXemLfPvs3d2eyHml"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Rocky Aur Rani Kii Prem Kahaani",
+      "track": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "uri": "spotify:track:7iekl4P95GuphG8x8a3cNT"
+    },
+    {
+      "artist": "Masked Wolf",
+      "album": "Astronaut In The Ocean",
+      "track": "Astronaut In The Ocean",
+      "uri": "spotify:track:3Ofmpyhv5UAQ70mENzB277"
+    },
+    {
+      "artist": "Marcus & Martinus",
+      "album": "Heartbeat",
+      "track": "Heartbeat",
+      "uri": "spotify:track:6511EVGteoddQHgxIU3rpj"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "track": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "uri": "spotify:track:6fRxMU4LWwyaSSowV441IU"
+    },
+    {
+      "artist": "Rachel Platten",
+      "album": "Wildfire",
+      "track": "Fight Song",
+      "uri": "spotify:track:37f4ITSlgPX81ad2EvmVQr"
+    },
+    {
+      "artist": "Farhan Akhtar",
+      "album": "Rock On!!",
+      "track": "Socha Hai",
+      "uri": "spotify:track:73VuJUMzYv3ZIWIDZ26Kh1"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Various Artists",
+      "album": "Four More Shots Please!",
+      "uri": "spotify:album:5tPTepsnKKIx3wFoqX3dxt"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Character Dheela 2.0 (From \"Shehzada\")",
+      "uri": "spotify:album:4e4MkpVHb3EZKjBVxNoFQj"
+    },
+    {
+      "artist": "Manan Bhardwaj",
+      "album": "ANIMAL",
+      "uri": "spotify:album:0a183xiCHiC1GQd8ou7WXO"
+    },
+    {
+      "artist": "Pritam",
+      "album": "Yeh Jawaani Hai Deewani",
+      "uri": "spotify:album:2Lxoc72vRTGdQfMvj7Ovi1"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Four More Shots Please! Season 2",
+      "uri": "spotify:album:2VmahNskoUK0FWJKa1bUH8"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Krishna Kant Sehgal",
+      "publisher": "Kks Productions",
+      "uri": "spotify:show:09KldAzEkTtEjZXO0OizUp"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Adam Levine",
+      "uri": "spotify:artist:4bYPcJP5jwMhSivRcqie2n"
+    },
+    {
+      "name": "Aditya Rikhari",
+      "uri": "spotify:artist:3ozYqVCLohfpXIhalkhM8D"
+    },
+    {
+      "name": "Arijit Singh",
+      "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    },
+    {
+      "name": "Avicii",
+      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+    },
+    {
+      "name": "Beyoncé",
+      "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    },
+    {
+      "name": "Diljit Dosanjh",
+      "uri": "spotify:artist:2FKWNmZWDBZR4dE5KX4plR"
+    },
+    {
+      "name": "Fifth Harmony",
+      "uri": "spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt"
+    },
+    {
+      "name": "Kygo",
+      "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+    },
+    {
+      "name": "Liam Payne",
+      "uri": "spotify:artist:5pUo3fmmHT8bhCyHE52hA6"
+    },
+    {
+      "name": "Rihanna",
+      "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    {
+      "name": "Shawn Mendes",
+      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    },
+    {
+      "name": "Taylor Swift",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
