@@ -1,0 +1,8 @@
+username = 'bjayesh47'
+client_id = 'f7ef312beac64376ac1e61cc2eb65a27'
+client_secret = 'c05b1b3e9f264d56985e6ac3db4bcaa1'
+# username = 'your-spotify-username'
+# client_id ='your-client-id'
+# client_secret = 'your-client-secret'
+redirect_uri = 'http://localhost:9000'
+scope = 'user-read-recently-played'
