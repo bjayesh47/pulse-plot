@@ -62,20 +62,35 @@ def get_features(track_id: str, token: str) -> dict:
         return None
     
 def get_features_in_batch(file_path: str, token: str) -> dict:
+    sp = spotipy.Spotify(auth = token)
     df = pd.read_csv(file_path)
-    name_list = df['name'].to_list()
     id_list = df['id'].to_list()
     print(len(id_list))
     chunk_size = 100
     chunks = [id_list[i: i + chunk_size] for i in range(0, len(id_list), chunk_size)]
-    for chunk in chunks:
-        print(len(chunk))
     all_features = {}
+    for chunk in chunks:
+        try: 
+            features = sp.audio_features(chunk)
+            print(features)
+            for feature in features:
+                all_features[feature['id']] = feature
+        except:
+            print('None')
+    return all_features
 
     
 token = get_token(username, client_id, client_secret, redirect_uri, scope)
 print(token)
-get_features_in_batch('streaming_history_complete.csv', token)
+all_features = get_features_in_batch('streaming_history_complete.csv', token)
+
+with_features = []
+for id, features in all_features.items():
+    with_features.append({'id': id, **features})
+
+df = pd.DataFrame(with_features)
+df.to_csv('audio_features.csv')
+
 
 # streamings = get_streamings()
 # unique_tracks = list(set[streaming['trackName']] for streaming in streamings)
