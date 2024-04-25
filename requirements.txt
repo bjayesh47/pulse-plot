@@ -1,3 +1,6 @@
 spotipy
 requests
 pandas
+matplotlib
+seaborn
+calplot
