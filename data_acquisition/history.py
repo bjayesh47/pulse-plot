@@ -82,14 +82,14 @@ def get_features_in_batch(file_path: str, token: str) -> dict:
     
 token = get_token(username, client_id, client_secret, redirect_uri, scope)
 print(token)
-all_features = get_features_in_batch('streaming_history_complete.csv', token)
+# all_features = get_features_in_batch('streaming_history_complete.csv', token)
 
-with_features = []
-for id, features in all_features.items():
-    with_features.append({'id': id, **features})
+# with_features = []
+# for id, features in all_features.items():
+#     with_features.append({'id': id, **features})
 
-df = pd.DataFrame(with_features)
-df.to_csv('audio_features.csv')
+# df = pd.DataFrame(with_features)
+# df.to_csv('audio_features.csv')
 
 
 # streamings = get_streamings()

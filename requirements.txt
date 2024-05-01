@@ -1,6 +1,8 @@
 spotipy
 requests
 pandas
+numpy
 matplotlib
 seaborn
 calplot
+scikit-learn
